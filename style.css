@@ -12,12 +12,12 @@ h1 {
 #container {
     height: 200px;
     width: 550px;
-    background-color: #e2cca1;
+    background-color: #e4d9c4;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 50px 1fr;
     margin: 0 auto;
-    border: 5px solid #69afb1;
+    border: 5px solid rgb(51, 226, 232);
 }
 
 #input {    
